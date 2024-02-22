@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.blogsList-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  flex-grow: 1;
+}
